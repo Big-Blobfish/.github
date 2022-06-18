@@ -13,3 +13,5 @@
 * Backend
 </br></br>
 # 🪐 Projects
+## [BigBlobEye](https://github.com/Big-Blobfish/BigBlobEye)
+CCTV *사람* 인식, 실시간 CCTV 스트리밍 서비스
