@@ -14,4 +14,5 @@
 </br></br>
 # 🪐 Projects
 ## [BigBlobEye](https://github.com/Big-Blobfish/BigBlobEye)
-CCTV *사람* 인식, 실시간 CCTV 스트리밍 서비스
+### *사람을 추적하는 실시간 CCTV 스트리밍 서비스*
+직접 구현한 CCTV의 화면에 있는 사람을 YOLOX를 기반으로 영상 분석 후 얻은 정보를 영상과 함께 실시간으로 송출하는 서비스입니다.
