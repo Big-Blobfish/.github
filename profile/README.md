@@ -3,12 +3,12 @@
 </br></br>
 # 🧑 Team Members
 ### [이강준](https://github.com/Ladun)
-* Team Manager
+* ⭐Team Manager
 * AI
 ### [정종인](https://github.com/chongin12)
 * Frontend, Backend
 ### [유한길](https://github.com/Yuhangil)
-* Hardware
+* Hardware, Architecture
 ### [이동규](https://github.com/Leedonggyu1290)
 * Backend
 </br></br>
